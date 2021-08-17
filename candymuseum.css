@@ -1,0 +1,44 @@
+body{
+	background: #f5d9d5;
+}
+#mainnavbar{
+	font-size: 1.5rem;
+	font-weight: 100;
+}
+#mainnavbar .navbar-brand{
+	color: #ea1c2c;
+}
+#second h2{
+color: #ea1c2c;
+font-weight: 100;
+}
+#second p{
+color: #;
+font-weight: 100;
+}
+#mainnavbar .nav-link{
+	color: white;
+}
+#mainnavbar .nav-link:hover{
+	color: #ea1c2c;
+}
+#quotes span{
+	color:#ea1c2c;
+}
+#quotes h1{
+	color:white;
+}
+#quotes h1{
+	font-weight: 100;
+	font-size: 4rem;
+}
+.navbar.scrolled{
+	background: rgb(222,192,222);
+	transition: background 500ms;
+}
+@media (max-width: 1200px){
+	#quotes h1{
+		font-weight: 100;
+		font-size: 3rem;
+	}
+}
